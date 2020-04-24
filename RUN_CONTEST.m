@@ -38,8 +38,8 @@ im = zeros(SIZE,SIZE,T,'single');
    end
 
 end
-%% Parameters relevant for both SPARCOM & LSPARCOM
-UPfactor = 4; tau = 1;  
+%% Parameters 
+UPfactor = 4; 
 show = 0; overlap = 1; preprocessA = 0; apsvd = 0; vec = 0;
 
 MaxSIZE = 32;
