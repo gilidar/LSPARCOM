@@ -1,6 +1,6 @@
 # LSPARCOM
 
-main14,py, FUNCS_GEN.py, and basic_model.py are used for training the network in python, as explained in https://arxiv.org/abs/2004.09270.
+main14.py, FUNCS_GEN.py, and basic_model.py are used for training the network in python, as explained in https://arxiv.org/abs/2004.09270.
 Matlab script create_DS_VAR.m creates the training data (which is too heavy to be uploaded). 
 
 weights750TU.mat is the trained weight file, after training on the TU dataset, as explained in the paper.
